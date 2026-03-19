@@ -25,4 +25,4 @@ This project focuses on cleaning, transforming, and analyzing sales data from Bl
 - SQL Aggregations and Grouping
 - `CASE` statements for data normalization
 - Window functions for calculating percentages
-- PIVOT for matrix-style views
+- PIVOT for matrix-style views 
